@@ -5,3 +5,5 @@ print("Bye")
  y = 8
  z = x+y
  Print(z)
+# First document in Python
+print("New things in Python")
